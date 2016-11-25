@@ -1,4 +1,4 @@
-FROM fedora23_maj
+FROM fedora:23
 MAINTAINER Fatima
 
 RUN dnf -y update
